@@ -20,3 +20,5 @@ Tenho foco na otimização de processos corporativos, criando automações focad
 📫 **Como me encontrar:**
 * [LinkedIn](www.linkedin.com/in/joão-victor-aa5213266)
 * [E-mail](mailto:joaovictr204@gmail.com)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Joaovict07&layout=compact&langs_count=5&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=Joaovict07&layout=compact&langs_count=5&theme=dark)
