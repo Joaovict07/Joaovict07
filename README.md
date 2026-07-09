@@ -20,9 +20,9 @@ Tenho foco na otimização de processos corporativos, criando automações focad
 
 ## 🛠️ Tecnologias e Ferramentas
 
-* **Análise de Dados & BI:** Databricks, Power BI.
+* **Análise de Dados & BI:** Databrick (SQL e PySpark) e Power BI.
 * **Linguagens:** Python, SQL, Java e C#.
-* **Idiomas:** Português (Nativo), Inglês (Intermediário).
+* **Idiomas:** Português (Nativo) e Inglês (Intermediário).
 
 ## 📈 Competências e Entregas de Impacto
 
